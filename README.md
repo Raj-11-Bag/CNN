@@ -1,4 +1,4 @@
-# Oxford-IIIT Pet Dataset Classification
+# Oxford-IIIT Pet Dataset Classification using CNN 
 
 This project focuses on classifying pet breeds using the Oxford-IIIT Pet dataset. It involves data preprocessing, defining a Convolutional Neural Network (CNN) model, training the model, and evaluating its performance.
 
